@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rapidcartimages",
+  "private_key_id": "ae62afb6c817d472b89fac7db37e89fc3dc2ec8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNNyPcZ+EdvxDD\n/yz1oRhhX1tBrxsk77ixc+1hrXsbg6ahlL+Lxba7uStyFZl0SU8PfJVTUCz76BQL\nUAjPpl9tnf5p/PDcTKnZwhPK/YyyMah5VhkR8iqQbLiJ8ULvsri+8S/Eh+8qcJQ3\nXA4c3QqPiqweLaCbCb+hvL+2Poqozic0RJVy/vXv1vaH0utF9TvMMj1HseQMTSHJ\nH6QoOKRfQ/1EKrcDYL3sby9wNbctEwOQn4vLLv2JzIJv+ZLIYQ/UW1vKJFzWr58u\nziArq1FqJmQDSXV6EiQHBo60bnBICkryk9opwAcHeTcebY+hIx5bBnieG+1CdbCf\ng3DpT2k5AgMBAAECggEAAMaHOvk3lMmQXRyLF0o+ZXmRu0nbbEVLs5o06qnjarHV\naw+xriR3SxhJQ6Q1DHCkL9vW4ybYOKyZEMsdJh280quuA+7YE/6xaCegUl/7xOjM\nGhYbGrTcLNFW8z9SpCdlji9I/8PSY4oQ0GG+EnClOaUVFZOU42VV2BHJfMxV6Yry\nZOCR3TSAkWbUEMWRqfsal6cm/2W6q1LWs9bx4AUFAXxQHeKjXuSCoHd1N4RQGR8c\nO+9NumO2MQczJfg8gkbr94/2E/nly8iSA3vWUVrxiNiW1nCwVRpOpRIGqBk6Omeq\nebzooABte1vOhnl5n3W7mXoaAQr71XVa6FS3x2OEhQKBgQD2kAkt6Wn16wkTrR0n\nGXAjy5t5rYkp0R/TyLW6G4h2FHw5vgzZPo0Mk1UV8SR8//7KyoxZuSp6HWpDAWdk\nW+B8V6Xhfdz1uctbASrl7UJ0/lf9S07g7Yp187ZKqwJotgV07ih9CoPL1RbWKuWt\n+ygqk9cS/h62NpMgZqJVPRgxxQKBgQDVEfW3g7slXE1KCqbYM+9Jx01De34DIE8C\nPOnWNBOVk9tAh5Il0fZJDCh82IZai8dRL4Af8uMvX1UB+0TgQvvobnqYkSoiFJAU\ng0hB0AYENPRpVU/s+c1st07I2yIWsgFAIN+r5SDTXez28Ai++zWcv5MLPhOwGy32\nSXiEpaGU5QKBgG1NixQ0XonrSNnVK5BSwZjMwT7exGiqUX60goNfg049ZJjAfLet\n+B90DQsuHKvhXJWP10pLQN5jveC4dZpS9KCKxnnBLzwrwk+0o8zMMmLlAiLCyNQD\n2hbSFKTjTK0YzDB7B63vBGBPNdF5sNpA9hxx7612xCyo4u5BMYOyEtC1AoGAEo3k\n0t1Cz8cQ5/CzhMJJBSi43raDS6xllPFO/5s7VVwxzJXBsU9uXgAUCoMkeAASFEzJ\noH6bMAXiNjD2V30dyKjOPjjt7VfTECY6hZii3XzrB70pH57FN8Fit/T1K/rGRxpV\nv/dM+3sDZqGScWcYzRSVrnXyavSC9R6CwzJVNs0CgYEA7NaupE4oo5xdknQJ9IGa\ne1gXC5w/1v49CywcNzemM5xNH0I3sRN/9g5vg0cq5tzvVZE11AR2biIhQzI5RSUI\ndb7g1wyJwrr5AiJaC+lBNWEOU2L70NhBq4InmlqWfzrp/1J5OecJsWg36O41UVFK\nLLRTIAX+yIaibUNnuT972pI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "recogimages@rapidcartimages.iam.gserviceaccount.com",
+  "client_id": "108305186607742660478",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/recogimages%40rapidcartimages.iam.gserviceaccount.com"
+}

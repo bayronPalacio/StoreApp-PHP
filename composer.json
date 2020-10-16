@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kreait/firebase-php": "4.17.0",
+        "google/cloud-vision": "^1.1"
+    }
+}
